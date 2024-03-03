@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-2024h",
+  "version": "1.0.0",
+  "description": "learning node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sky",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.3",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
